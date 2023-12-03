@@ -18,3 +18,9 @@ If the person answers Wrong Answer, Game Stops and Final Amount will be Shown.
 ## Final Result 
 <img width="1440" alt="Screenshot 2023-12-03 at 2 49 50 PM" src="https://github.com/Js-Aditya/quiz-app/assets/83912961/322c1baf-f865-4e0c-a27d-0258d765fcaf">
 
+## Future Enhancements
+1. To Add Celebration page after Completing 15 Questions
+2. Animation of Background Lights like live Show
+3. Give Option of Diffrent CS Subjects
+4. Connect with Backend to share Test Links, Create Custom Tests and Leader Boards 
+
