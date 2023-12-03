@@ -351,7 +351,7 @@ function App() {
         { id: 3, amount: "₹5000" },
         { id: 4, amount: "₹10,000" },
         { id: 5, amount: "₹20,000" },
-        { id: 6, amount: "$₹50,000" },
+        { id: 6, amount: "₹50,000" },
         { id: 7, amount: "₹1 Lakh" },
         { id: 8, amount: "₹2.5 Lakh" },
         { id: 9, amount: "₹5 Lakh" },
