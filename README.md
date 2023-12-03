@@ -1,7 +1,7 @@
 # KBC Theme Quiz Website using React
 
 ## Home Page
-This Quiz Game is inspired by Popular Show called KBC hosted by popular actor Amitabh Bachchan, Wherein the Contestant has Timer for each Question and the amount increases for each Correct answered question and goes till ₹7.5 Crores(Crorepati).
+This Quiz Game is inspired by Popular Show called KBC hosted by popular actor Amitabh Bachchan, Wherein the Contestant has Timer for each Question and the amount increases for each Correct answered question and goes till ₹5 Crores(Crorepati).
 
 <img width="1440" alt="Screenshot 2023-12-03 at 2 33 03 PM" src="https://github.com/Js-Aditya/quiz-app/assets/83912961/26fe7637-ecb0-4d15-b513-92dc3d744cce">
 Image of Home Screen to enter into Game
