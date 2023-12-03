@@ -9,14 +9,20 @@ Image of Home Screen to enter into Game
 
 ## Quiz 1st Question
 Here for each Question there will be Timer and upon choosing the answer, The Results will be declared as Correct or Wrong. Along with Background Music as per the Actions.
-<img width="1432" alt="Screenshot 2023-12-03 at 2 33 09 PM" src="https://github.com/Js-Aditya/quiz-app/assets/83912961/8f88e5d5-cd05-4970-b30b-fad076e7a57d">
+<img width="1440" alt="Screenshot 2023-12-03 at 3 25 25 PM" src="https://github.com/Js-Aditya/quiz-app/assets/83912961/79641617-5b15-4fe1-84a3-5deae7f8a0e7">
 
-If the person answers Wrong Answer, Game Stops and Final Amount will be Shown.
-## Quiz 2nd Question
-<img width="1438" alt="Screenshot 2023-12-03 at 2 33 32 PM" src="https://github.com/Js-Aditya/quiz-app/assets/83912961/a06b9a1d-991e-44ce-b79f-221fc7ba688a">
+
+
+
+## Correct Answer
+<img width="1440" alt="Screenshot 2023-12-03 at 3 25 39 PM" src="https://github.com/Js-Aditya/quiz-app/assets/83912961/5a4aa4a1-378f-48e4-b9fd-243a4a9b03cc">
+
+
 
 ## Final Result 
-<img width="1440" alt="Screenshot 2023-12-03 at 2 49 50 PM" src="https://github.com/Js-Aditya/quiz-app/assets/83912961/322c1baf-f865-4e0c-a27d-0258d765fcaf">
+If the person answers Wrong Answer, Game Stops and Final Amount will be Shown.
+<img width="1436" alt="Screenshot 2023-12-03 at 3 25 59 PM" src="https://github.com/Js-Aditya/quiz-app/assets/83912961/70dff3e0-4be6-4697-9ab8-42b382141ea2">
+
 
 ## Future Enhancements
 1. To Add Celebration page after Completing 15 Questions
